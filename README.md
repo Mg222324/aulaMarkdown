@@ -1,4 +1,5 @@
-# Aula prática - Markdown V2
+<img src="https://i.pinimg.com/originals/d7/4b/67/d74b6737ae912d33bba82f3a4dcc4a30.gif" width="300px">
+# Aula prática - Markdown V3
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
